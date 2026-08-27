@@ -3,9 +3,13 @@ A Fanmade Rig made in Maya 2026.3 for the Champion Zaahen from League of Legends
 
 Rigging done by me. Modeling and texturing are courtesy of Riot Games. 
 The model and texture maps are provided strictly for non-commercial educational and animation use. I claim no ownership over these assets.
+
 A showcase of this Rig can be found here:
+
 Artstation: https://www.artstation.com/artwork/QxnZ14
+
 YouTube: https://www.youtube.com/watch?v=P-Pn3GlgDUc
+
 
 INTELLECTUAL PROPERTY NOTICE & DISCLAIMER
 
